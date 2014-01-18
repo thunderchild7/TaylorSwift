@@ -1,15 +1,15 @@
 {
     "media": [
         {
+            "characterRegex": "[0-9:. ]",
+            "defName": "FONT_ROBOTO_BOLD_SUBSET_38",
+            "type": "font",
+            "file": "fonts/wwDigital.ttf"
+        },
+        {
             "defName": "IMAGE_BACKGROUND",
             "type": "png",
             "file": "images/ts1_back.png"
-        },
-        {
-            "characterRegex": "[:0-9]",
-            "defName": "FONT_ROBOTO_BOLD_SUBSET_36”,
-            "type": "font",
-            "file": "fonts/wwDigital.ttf"
         },
         {
             "defName": "IMAGE_MENU_ICON",
