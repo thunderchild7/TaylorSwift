@@ -1,0 +1,22 @@
+{
+    "media": [
+        {
+            "defName": "IMAGE_BACKGROUND",
+            "type": "png",
+            "file": "images/ts1_back.png"
+        },
+        {
+            "characterRegex": "[:0-9]",
+            "defName": "FONT_ROBOTO_BOLD_SUBSET_36”,
+            "type": "font",
+            "file": "fonts/wwDigital.ttf"
+        },
+        {
+            "defName": "IMAGE_MENU_ICON",
+            "type": "png",
+            "file": "images/TS_icon.png"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
